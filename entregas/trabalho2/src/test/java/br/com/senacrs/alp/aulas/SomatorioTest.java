@@ -1,4 +1,4 @@
-package src.test.java.br.com.senacrs.alp.aulas;
+package br.com.senacrs.alp.aulas;
 
 import java.util.Arrays;
 import org.junit.After;
@@ -17,7 +17,7 @@ public class SomatorioTest {
 	public void setUp() throws Exception {
 
 		obj = Somatorio.getInstancia();
-	}
+	}  
 
 	@After
 	public void tearDown() throws Exception {

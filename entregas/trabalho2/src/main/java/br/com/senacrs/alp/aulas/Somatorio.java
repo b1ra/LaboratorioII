@@ -1,4 +1,4 @@
-package src.main.java.br.com.senacrs.alp.aulas;
+package br.com.senacrs.alp.aulas;
 
 
 public class Somatorio {
@@ -15,8 +15,18 @@ public class Somatorio {
 		
 		double resultado = 0.0;
 		
-		//Implementar
 		
+	    
+		
+		
+		//Implementar
+	
+	
+	
+	
+	
+	
+	
 		return resultado;
 	}
 	
