@@ -15,15 +15,11 @@ public class Somatorio {
 		
 		double resultado = 0.0;
 		
-		
-	    
-		
-		
-		//Implementar
+	//Implementar
 	
-	
-	
-	
+		if (valores == null) {
+			resultado = Double.NaN;
+			}
 	
 	
 	

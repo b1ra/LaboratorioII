@@ -1,4 +1,4 @@
-package br.com.senacrs.alp.aulas;
+package src.test.java.br.com.senacrs.alp.aulas;
 
 import java.util.Arrays;
 import org.junit.After;
