@@ -13,6 +13,9 @@ public class ListaFactory {
 		
 		//implementar
 		
+		private Nodo<Tipo> getInicio() {		
+		
+				
 		return resultado;
 	}
 	
